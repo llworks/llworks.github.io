@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### 何者？
 
-### More Information
+現役でSEを名乗っています。
+業務内容はプロジェクトによりますが、チームマネジメント、コーディング、顧客の要件定義支援等々です。
 
-A place to include any other types of information that you'd like to include about yourself.
+### ページの趣旨
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+業務を離れて個人的な活動について記録することで、誰かの参考になればと。
